@@ -1,0 +1,8 @@
+﻿{
+	"BrowserType": "firefox",
+	"LogLevel": "All",
+	"DeviceName":"",
+	"PlatformName":"Android",	
+	"PlatformVersion":"9",
+	"AppiumUrl":"http://127.0.0.1:4723/wd/hub"
+}

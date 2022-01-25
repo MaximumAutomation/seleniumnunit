@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>Selenium.Nunit.Framework</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>maximumautomation</Authors>
+    <Product>External Libraries</Product>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SpecFlow" Version="3.3.57" />
+  </ItemGroup>
+
+</Project>
